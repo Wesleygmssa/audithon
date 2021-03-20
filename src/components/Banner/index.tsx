@@ -2,5 +2,5 @@ import React from "react";
 import { Container } from "./styles";
 
 export const Banner = () => {
-  return <Container>Header</Container>;
+  return <Container>Banner</Container>;
 };
