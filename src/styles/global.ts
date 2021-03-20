@@ -36,6 +36,8 @@ button{
     opacity: 0.6;
     cursor: not-allowed;
 }
-
+img {
+    max-width: 100%;
+}
 
 `;
